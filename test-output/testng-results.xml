@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-23T19:54:01 IST" name="Default suite" finished-at="2024-06-23T19:54:32 IST" duration-ms="31603">
+    <groups>
+    </groups>
+    <test started-at="2024-06-23T19:54:01 IST" name="Default test" finished-at="2024-06-23T19:54:32 IST" duration-ms="31603">
+      <class name="com.ui.PagesTests.TC001_Login">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.ui.PagesTests.TC001_Login@1ffaf86]" started-at="2024-06-23T19:54:01 IST" name="setUp" finished-at="2024-06-23T19:54:07 IST" duration-ms="6205" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="init()[pri:0, instance:com.ui.PagesTests.TC001_Login@1ffaf86]" started-at="2024-06-23T19:54:07 IST" name="init" finished-at="2024-06-23T19:54:07 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="login()[pri:0, instance:com.ui.PagesTests.TC001_Login@1ffaf86]" started-at="2024-06-23T19:54:07 IST" name="login" finished-at="2024-06-23T19:54:11 IST" duration-ms="4119" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="closeWindow()[pri:0, instance:com.ui.PagesTests.TC001_Login@1ffaf86]" started-at="2024-06-23T19:54:11 IST" name="closeWindow" finished-at="2024-06-23T19:54:11 IST" duration-ms="327" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeWindow -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.ui.PagesTests.TC001_Login@1ffaf86]" started-at="2024-06-23T19:54:11 IST" name="setUp" finished-at="2024-06-23T19:54:15 IST" duration-ms="3954" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="init()[pri:0, instance:com.ui.PagesTests.TC001_Login@1ffaf86]" started-at="2024-06-23T19:54:15 IST" name="init" finished-at="2024-06-23T19:54:15 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="siteLink()[pri:0, instance:com.ui.PagesTests.TC001_Login@1ffaf86]" started-at="2024-06-23T19:54:15 IST" name="siteLink" finished-at="2024-06-23T19:54:18 IST" duration-ms="2579" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- siteLink -->
+        <test-method is-config="true" signature="closeWindow()[pri:0, instance:com.ui.PagesTests.TC001_Login@1ffaf86]" started-at="2024-06-23T19:54:18 IST" name="closeWindow" finished-at="2024-06-23T19:54:18 IST" duration-ms="247" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeWindow -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.ui.PagesTests.TC001_Login@1ffaf86]" started-at="2024-06-23T19:54:18 IST" name="setUp" finished-at="2024-06-23T19:54:22 IST" duration-ms="3851" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyLoginText()[pri:0, instance:com.ui.PagesTests.TC001_Login@1ffaf86]" started-at="2024-06-23T19:54:22 IST" name="verifyLoginText" finished-at="2024-06-23T19:54:22 IST" duration-ms="416" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginText -->
+        <test-method is-config="true" signature="init()[pri:0, instance:com.ui.PagesTests.TC001_Login@1ffaf86]" started-at="2024-06-23T19:54:22 IST" name="init" finished-at="2024-06-23T19:54:22 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method is-config="true" signature="closeWindow()[pri:0, instance:com.ui.PagesTests.TC001_Login@1ffaf86]" started-at="2024-06-23T19:54:22 IST" name="closeWindow" finished-at="2024-06-23T19:54:23 IST" duration-ms="196" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeWindow -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.ui.PagesTests.TC001_Login@1ffaf86]" started-at="2024-06-23T19:54:23 IST" name="setUp" finished-at="2024-06-23T19:54:26 IST" duration-ms="3831" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyLogo()[pri:0, instance:com.ui.PagesTests.TC001_Login@1ffaf86]" started-at="2024-06-23T19:54:26 IST" name="verifyLogo" finished-at="2024-06-23T19:54:27 IST" duration-ms="434" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogo -->
+        <test-method is-config="true" signature="init()[pri:0, instance:com.ui.PagesTests.TC001_Login@1ffaf86]" started-at="2024-06-23T19:54:26 IST" name="init" finished-at="2024-06-23T19:54:26 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method is-config="true" signature="closeWindow()[pri:0, instance:com.ui.PagesTests.TC001_Login@1ffaf86]" started-at="2024-06-23T19:54:27 IST" name="closeWindow" finished-at="2024-06-23T19:54:27 IST" duration-ms="153" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeWindow -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.ui.PagesTests.TC001_Login@1ffaf86]" started-at="2024-06-23T19:54:27 IST" name="setUp" finished-at="2024-06-23T19:54:31 IST" duration-ms="4071" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="init()[pri:0, instance:com.ui.PagesTests.TC001_Login@1ffaf86]" started-at="2024-06-23T19:54:31 IST" name="init" finished-at="2024-06-23T19:54:31 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="verifyResetPass()[pri:0, instance:com.ui.PagesTests.TC001_Login@1ffaf86]" started-at="2024-06-23T19:54:31 IST" name="verifyResetPass" finished-at="2024-06-23T19:54:32 IST" duration-ms="951" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyResetPass -->
+        <test-method is-config="true" signature="closeWindow()[pri:0, instance:com.ui.PagesTests.TC001_Login@1ffaf86]" started-at="2024-06-23T19:54:32 IST" name="closeWindow" finished-at="2024-06-23T19:54:32 IST" duration-ms="188" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeWindow -->
+      </class> <!-- com.ui.PagesTests.TC001_Login -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
